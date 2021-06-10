@@ -1,0 +1,108 @@
+body{
+	margin: 0;
+	background-color: #111111;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: #ffffff
+}
+
+a {
+	font-size: 16px;
+	color: #EBD494
+}
+
+a:hover {
+	color: #882ae0;
+}
+
+.profile{
+	margin: 10px auto;
+	background-image: url("img/mountains.jpg");
+	background-size: cover;
+	background-position: center;
+	background-color: #111111);
+	text-align: center;
+	padding: 100px;
+	color: #ffffff
+}
+
+h4 {
+	margin: 20px 20px 20px 35px;
+
+}
+
+[id=white-h4]{
+	color: #414141;
+	background-color: #fffff9;
+	padding: 25px 0px 0px 35px;
+	margin: 0;
+}
+
+.whatIdo{
+	column-count: 2;
+	column-gap: 100px;
+	margin: 10px 0px 10px 0px;
+    padding: 20px 200px 20px 200px;
+	background-color: #111111;
+}
+
+.whatIdo h2 {
+	margin-top: 0;
+}
+
+
+.aboutMe {
+	color: #414141;
+	background-color: #fffff9;
+	padding: 40px 80px 50px 80px;
+}
+
+.aboutMe a {
+	color: #be8c00;
+}
+
+.aboutMe img{
+	display:block;
+	margin-left: auto;
+    margin-right: auto;
+	height: 200px;
+}
+
+.textAboutMe{
+	column-count: 2;
+	column-gap: 50px;
+	text-align: justify;
+	margin: 35px 50px 0px 50px
+}
+
+.textAboutMe p {
+	margin-top: 0;
+}
+.textAboutMe h2 {
+	column-span: all;
+	text-align: center;
+	padding: 5px 0px 50px 0px;
+}
+
+.links {
+	padding: 10px 10px 10px 0px;
+	background-image: url("img/backgroundBottom.jpg");
+	background-size: cover;
+	background-position: center;
+
+}
+
+
+.links ul {
+	margin: 0;
+	padding: 10px 0px 0px 50px;
+}
+
+[id="final"]{
+
+	text-align: center;
+	position: center;
+}
+
+
+
+
